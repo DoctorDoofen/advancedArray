@@ -13,7 +13,7 @@ console.log(sumWithReduce([])); // 0
 */
 
 let sumWithReduce = function (nums) {
-  let accum = 0
+  //let accum = 0
   if (nums.length === 0) {
     return 0;
   }
